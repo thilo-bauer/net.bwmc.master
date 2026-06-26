@@ -8,12 +8,9 @@
   
 	<modules>
 		<module>../net.bwmc.logging</module>
-<!--
-	install:install-file -Dfile=pom.xml -DgroupId=net.bwmc -DartifactId=master -Dversion=1.0.0-RELEASE -Dpackaging=pom
 		<module>../net.bwmc.color</module>
 		<module>../net.bwmc.desktop</module>
 		<module>../net.bwmc.math</module>
-
 		<module>../net.bwmc.xml</module>
 		<module>../net.bwmc.base</module>
 		<module>../net.bwmc.plugin</module>
@@ -21,7 +18,6 @@
 		<module>../net.bwmc.dspj</module>
 		<module>../net.bwmc.sciplot</module>
 		<module>../net.bwmc.psfsimul</module>
- -->
 	</modules>
 
 </project>
